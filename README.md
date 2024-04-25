@@ -1,6 +1,6 @@
 # How to train an ML Agent to jump over oncoming obstacles
 
-*Youssef Kasmi*
+*Youssef Kasmi* /n
 *Hamzah Bhatti*
 
 ## Introduction
