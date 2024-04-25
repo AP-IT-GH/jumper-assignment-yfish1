@@ -1,5 +1,8 @@
 # How to train an ML Agent to jump over oncoming obstacles
 
+*Youssef Kasmi*
+*Hamzah Bhatti*
+
 ## Introduction
 
 The goal of this project is to train an ML Agent to successfully jump over oncoming obstacles using Unity and MLAgents. This guide provides a step-by-step walkthrough to achieve this outcome.
