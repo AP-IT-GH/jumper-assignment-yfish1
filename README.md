@@ -1,6 +1,6 @@
 # How to train an ML Agent to jump over oncoming obstacles
 
-For the projectn you can go to [this repo](https://github.com/AP-IT-GH/jumper-assignment-hamzahbhatti?tab=readme-ov-file).
+For the source code you can go to [this repo](https://github.com/AP-IT-GH/jumper-assignment-hamzahbhatti?tab=readme-ov-file).
 
 *Youssef Kasmi*
 
