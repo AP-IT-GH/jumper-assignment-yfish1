@@ -1,5 +1,12 @@
 # VR Racing: Competing against AI driven car
 
+---
+author:
+- "Youssef Kasmi"
+- "Hamzah Bhatti"
+- "Arne "
+---
+
 Youssef Kasmi 
 Hamzah Bhatti 
 Arne [ACHTERNAAM] 
