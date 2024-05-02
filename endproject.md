@@ -1,9 +1,9 @@
 # VR Racing: Competing against AI driven car
 
 Team:
-- "Youssef Kasmi"
-- "Hamzah Bhatti"
-- "Arne " 
+- Youssef Kasmi
+- Hamzah Bhatti
+- Arne 
 
 ## De Logica van de VR Simulatie:
 In  onze project gaat de speler het opnemen tegen een AI. Hierbij gaat de speler, in een VR omgeving, de auto besturen doorheen de racebaan. De speler zorgt er voor dat hij de finish behaalt voor de AI dit doet. De AI wordt getraind om zo snel mogelijk de finish te behalen en krijgt rewards als hij effectief obstacles vermijd en de finish bereikt voor de speler (human). 
