@@ -1,9 +1,7 @@
-**VR Racing: Competing against AI driven car"** 
+**VR Racing: Competing against AI driven car** 
 
 Youssef Kasmi 
-
 Hamzah Bhatti 
-
 Arne [ACHTERNAAM] 
 
 **De Logica van de VR Simulatie:** 
